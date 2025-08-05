@@ -148,6 +148,26 @@ npm run build
 node dist/index.js --apikey=YOUR-KEY
 ```
 
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the project.
+
+**Important:** Direct pushes to master are not allowed. All changes must be submitted via pull request.
+
+## 🐛 Debugging
+
+To debug the MCP server with the MCP Inspector:
+
+```bash
+# First build the project
+npm run build
+
+# Then use the MCP Inspector
+npx @modelcontextprotocol/inspector
+```
+
+The MCP Inspector provides a web interface to test and debug your MCP server tools interactively.
+
 ## 📝 License
 
 MIT
