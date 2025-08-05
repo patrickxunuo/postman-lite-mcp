@@ -1,6 +1,6 @@
 {
   "name": "postman-lite-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Model Context Protocol server for Postman API integration",
   "main": "dist/index.js",
   "type": "module",
@@ -37,12 +37,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/postman-lite-mcp.git"
+    "url": "https://github.com/patrickxunuo/postman-lite-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/postman-lite-mcp/issues"
+    "url": "https://github.com/patrickxunuo/postman-lite-mcp/issues"
   },
-  "homepage": "https://github.com/your-username/postman-lite-mcp#readme",
+  "homepage": "https://github.com/patrickxunuo/postman-lite-mcp#readme",
   "author": "Postman, Inc.",
   "license": "MIT",
   "files": [
