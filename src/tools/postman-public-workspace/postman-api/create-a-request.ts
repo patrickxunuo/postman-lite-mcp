@@ -104,7 +104,7 @@ const apiTool: ApiTool = {
         properties: {
           collectionId: {
             type: 'string',
-            description: 'The ID of the collection where the request will be created.'
+            description: 'The UID of the collection where the request will be created (use the uid field from the collection object, not the id field).'
           },
           name: {
             type: 'string',
